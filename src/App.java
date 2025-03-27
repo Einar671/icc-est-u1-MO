@@ -12,8 +12,8 @@ public class App {
         boolean continuar = true;
 
         while (continuar) {
-            int[] arreglo = { 10, 9, 21, 5, 15, 2, -1, 0 };
-
+            //int[] arreglo = { 10, 9, 21, 5, 15, 2, -1, 0 };
+            int[] arreglo = { 12, -7, 25, 0, -15, 33, 19, -22, 5, 48, -3, 27, -30, 14, 7, -1, 41, 20, -11, 8 };
             // int[] arreglo= new int[1000];
             // for(int i=0; i<arreglo.length; i++){
             // arreglo[i]=(int) (Math.random()*1000)+1;
